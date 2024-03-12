@@ -71,7 +71,7 @@ msgstr ""
 msgid "&Close"
 msgstr ""
 
-#: src/migrator/app/taskpage.cpp:203
+#: src/migrator/app/taskpage.cpp:222
 msgid "&Next >"
 msgstr ""
 
@@ -148,7 +148,7 @@ msgstr ""
 msgid "Apply configuration changes"
 msgstr ""
 
-#: src/migrator/app/taskpage.cpp:235
+#: src/migrator/app/taskpage.cpp:254
 msgid "Asking Fcitx to exit..."
 msgstr ""
 
@@ -178,15 +178,15 @@ msgstr ""
 msgid "Change System layout to match input method selection."
 msgstr ""
 
-#: src/migrator/app/taskpage.cpp:249
+#: src/migrator/app/taskpage.cpp:268
 msgid "Checking if Fcitx is running..."
 msgstr ""
 
-#: src/migrator/app/taskpage.cpp:237
+#: src/migrator/app/taskpage.cpp:256
 msgid "Checking if Fcitx is still running..."
 msgstr ""
 
-#: src/migrator/app/taskpage.cpp:151 src/migrator/app/taskpage.cpp:159
+#: src/migrator/app/taskpage.cpp:169 src/migrator/app/taskpage.cpp:182
 msgid "Click on an item for more details."
 msgstr ""
 
@@ -321,15 +321,15 @@ msgstr ""
 msgid "Fcitx Configuration"
 msgstr ""
 
-#: src/migrator/app/taskpage.cpp:235
+#: src/migrator/app/taskpage.cpp:254
 msgid "Fcitx Exited."
 msgstr ""
 
-#: src/migrator/app/taskpage.cpp:238
+#: src/migrator/app/taskpage.cpp:257
 msgid "Fcitx is fully exited."
 msgstr ""
 
-#: src/migrator/app/taskpage.cpp:250
+#: src/migrator/app/taskpage.cpp:269
 msgid "Fcitx is started."
 msgstr ""
 
@@ -770,4 +770,8 @@ msgstr ""
 
 #: layout/main.cpp:38
 msgid "variant"
+msgstr ""
+
+#: src/migrator/app/taskpage.cpp:161 src/migrator/app/taskpage.cpp:179
+msgid "No available migrators."
 msgstr ""
